@@ -1,0 +1,6 @@
+{
+    "What is a pair?": "A pair is a set of two values",
+    "What is a list?": "A list is a chain of pairs where first value of the pair\n represents an item of a list, and the second value of a pair represents another pair, which also follows the same pattern as the first pair. This forms a chain of pairs which represent a list of values",
+    "What is a tree?": "A tree is a list that has another list as at least one of its values",
+    "What is abstraction?" : "Abstraction is the act of generalizing functions or objects so that they can be applied more diversely"
+}
